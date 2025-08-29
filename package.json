@@ -1,0 +1,23 @@
+{
+  "name": "mypkgsrj",
+  "version": "1.0.0",
+  "description": "this is the test of npm package dev by srj",
+  "keywords": [
+    "srj"
+  ],
+  "homepage": "https://github.com/nawabSRJ/myPkg#readme",
+  "bugs": {
+    "url": "https://github.com/nawabSRJ/myPkg/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nawabSRJ/myPkg.git"
+  },
+  "license": "ISC",
+  "author": "srajan",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
